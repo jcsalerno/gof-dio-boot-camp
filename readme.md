@@ -15,7 +15,7 @@ O padrão Facade fornece uma interface simplificada para um conjunto complexo de
 
 ## Estrutura do Projeto
 
-`src/
+```src/
 ├── main/
 │ └── java/
 │ └── com/
@@ -31,4 +31,4 @@ O padrão Facade fornece uma interface simplificada para um conjunto complexo de
 │ │ └── OrderFacade.java
 │ ├── Order.java
 │ └── Main.java
-└── test` 
+└── test
